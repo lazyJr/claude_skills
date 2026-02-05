@@ -51,7 +51,7 @@
 
 ```bash
 # 克隆仓库
-git clone [https://github.com/YOUR_USERNAME/java-database-refactoring-expert.git](https://github.com/lazyJr/claude_skills.git)
+git clone https://github.com/lazyJr/claude_skills.git
 
 # 复制技能文件到Claude Code技能目录
 cp -r java-database-refactoring-expert ~/.claude/skills/
@@ -365,7 +365,7 @@ This skill helps when you face:
 ```bash
 # Clone the repository
 # 克隆仓库（请替换为实际的仓库地址）
-git clone https://github.com/YOUR_USERNAME/java-database-refactoring-expert.git
+git clone https://github.com/lazyJr/claude_skills.git
 
 # Copy to Claude Code skills directory
 cp -r java-database-refactoring-expert ~/.claude/skills/
